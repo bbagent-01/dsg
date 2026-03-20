@@ -1,0 +1,31 @@
+{
+  "name": "dsg",
+  "version": "1.0.0",
+  "description": "A minimal, deploy-ready landing page template for Cloudflare Pages.   Clone → edit → push → live at `yourproject.bbase.dev`.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbagent-01/dsg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bbagent-01/dsg/issues"
+  },
+  "homepage": "https://github.com/bbagent-01/dsg#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.1"
+  }
+}
